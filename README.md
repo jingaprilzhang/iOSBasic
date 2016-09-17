@@ -20,4 +20,9 @@ http://study.163.com/category/ios
 
 # 09-16-2016 
 
+落实主要知识点如UITableViewController, UINavigationController
+
+＃ 09-18-2016 
+
 学习实际项目开发，提高具体技能
+
