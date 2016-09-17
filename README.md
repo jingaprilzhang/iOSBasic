@@ -17,3 +17,7 @@ http://ios.jobbole.com/category/ios-dev/
 IOS开发全套教程【职坐标】
 
 http://study.163.com/category/ios
+
+# 09-16-2016 
+
+学习实际项目开发，提高具体技能
