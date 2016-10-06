@@ -36,3 +36,11 @@ http://study.163.com/category/ios
 http://study.163.com/course/courseLearn.htm?courseId=1002893006#/learn/video?lessonId=1003281071&courseId=1002893006
 
 学习OC基础知识，思考本质的原理
+
+# 10-06-2016 Web服务交互
+
+REST = resprestational state transfer 一组架构约束条件和原则 无状态请求
+
+SOAP =simple object access protocol
+
+XML-RPC
