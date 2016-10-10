@@ -44,3 +44,7 @@ REST = resprestational state transfer 一组架构约束条件和原则 无状�
 SOAP =simple object access protocol
 
 XML-RPC
+
+# 10-10-2016 智能视图
+
+http://edu.csdn.net/course/detail/815/11176?auto_start=1
